@@ -1,10 +1,10 @@
 // sudipta banik
 
 function Shape(nSides){
-    // fiels
+    // fields
     this.nSides = nSides;
 
-    // class
+    // class variables
     Shape.count +=1;
 
     // shared variables
